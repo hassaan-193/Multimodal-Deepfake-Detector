@@ -1,0 +1,2 @@
+# Multimodal-Deepfake-Detector
+a multimodal deepfake detection system using both visual and audio inputs. Applied CNNs for facial feature extraction and RNN-based audio embeddings, then fused modalities for robust classification. Focused on detecting manipulated videos and improving content authenticity verification.
